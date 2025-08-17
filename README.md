@@ -10,6 +10,7 @@ Este repositório contém testes de ponta a ponta (E2E) automatizados usando Cyp
 - [Instalação](#instalação)
 - [Uso](#uso)
 - [Configuração](#configuração)
+- [Funcionalidades](#funcionalidades)
 - [Contribuição](#contribuição)
 
 ## Instalação
@@ -87,6 +88,22 @@ Configurações chave:
 
 -   `specPattern`: Define onde o Cypress procura pelos arquivos de teste (arquivos de feature neste caso).
 -   `baseUrl`: A URL base para sua aplicação em teste.
+
+## Funcionalidades
+
+1. Testes E2E - https://demoqa.com/webtables
+- Criar e validar registro 
+- Editar e validar registro 
+- Excluir e validar registro c
+- Criar registro deixando todos campos vazios
+- Criar registro deixando alguns campos vazios
+- Criar registro usando email inválido
+- Criar registro usando texto em campo numérico
+
+2. Testes de backend - GoRestAPI 
+- Criar usuário e validar reposta da APi
+- Criar Postagem e validar reposta da APi
+- Criar comentário e validar reposta da APi
 
 ## Contribuição
 
