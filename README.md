@@ -78,8 +78,8 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       on('file:preprocessor', cucumber())
     },
-    specPattern: 'cypress/e2e/features/*.feature',
-    baseUrl: 'http://localhost:3000'
+    specPattern: 'cypress/e2e/**/*.feature',
+    baseUrl: 'https://demoqa.com/webtables'
   },
 });
 ```
