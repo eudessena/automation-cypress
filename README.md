@@ -94,16 +94,16 @@ Configurações chave:
 1. Testes E2E - https://demoqa.com/webtables
 - Criar e validar registro 
 - Editar e validar registro 
-- Excluir e validar registro c
+- Excluir e validar registro 
 - Criar registro deixando todos campos vazios
 - Criar registro deixando alguns campos vazios
 - Criar registro usando email inválido
 - Criar registro usando texto em campo numérico
 
-2. Testes de backend - GoRestAPI 
-- Criar usuário e validar reposta da APi
-- Criar Postagem e validar reposta da APi
-- Criar comentário e validar reposta da APi
+2. Testes de backend - https://gorest.co.in/
+- Criar usuário e validar reposta da API
+- Criar Postagem e validar reposta da API
+- Criar comentário e validar reposta da API
 
 ## Contribuição
 
